@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         tapochek.net add remover
+// @name         tapochek.net
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  tapochek.net adblock helper, clicks on ad modal window
+// @author       alaurenau
 // @match        http://tapochek.net/*
 // @grant        none
 // ==/UserScript==
